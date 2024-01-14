@@ -1,19 +1,19 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: hotstar-deployment
+  name: hotstar-App-deployment
 spec:
   replicas: 1  # Number of desired replicas
   selector:
     matchLabels:
-      app: hotstar
+      app: hotstar-App
   template:
     metadata:
       labels:
-        app: hotstar
+        app: hotstar-App
     spec:
       containers:
-      - name: hotstar
-        image: ashishdevops007/hotstar:latest
+      - name: hotstar-App
+        image: ashishdevops007/hotstar-App:latest
         ports:
         - containerPort: 3000  # Port your application listens on
