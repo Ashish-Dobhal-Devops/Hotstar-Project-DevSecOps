@@ -1,3 +1,3 @@
-# 🚀 DevSecOps CI/CD: Deploying a Secure Hotstar Clone 🔒✨
+# "🛠️ Building DevSecOps Mastery" Deploying Hotstar Application with DevSecOps CI/CD🚀
 
-# https://devopscirrus.hashnode.dev/devsecops-cicd-deploying-a-secure-hotstar-clone
+# https://ashishdevops007.hashnode.dev/building-devsecops-mastery-deploying-hotstar-application-with-devsecops-cicd
